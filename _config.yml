@@ -40,10 +40,9 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "jgardn92@uw.edu"
+  github: jgardn92
+  twitter: jgardn92
 #  patreon: DeanAttali
 #  reddit: yourname
 #  linkedin: daattali
